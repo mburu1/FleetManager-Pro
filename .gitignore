@@ -1,0 +1,9 @@
+# Local development and dependencies
+node_modules/
+packages/
+.kilo/
+.vscode/
+
+# Environment configurations
+.env
+.env.local
